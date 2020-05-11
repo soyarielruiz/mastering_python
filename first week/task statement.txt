@@ -1,0 +1,3 @@
+Se desea una calculadora en la que se puedan ingresar numeros de hasta 2 digitos y se pueda ejecutar las funcionalidades de suma, resta, division, multiplicación, exponencial, logaritmo.
+
+Plus: buscar forma de hacerlo combinado(una ecuación con los valores definidos).
