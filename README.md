@@ -1,4 +1,4 @@
-# mastering_python
+# Mastering Python 3
 
 ### Vamos a mejorar los skills de python
 
